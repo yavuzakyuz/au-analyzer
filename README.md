@@ -22,7 +22,7 @@
 
 1. All logic is defined in ```scripts/main.py``` with helper functions. 
 2. Only dependency needed is ```dataset/annotations.csv```, they are not hardcoded. 
-3. For dependencies, conda pkg manager is used because py-feat had some problems on arm64 osx.  
+3. For pkg dependencies, conda pkg manager is used because py-feat had some problems on arm64 osx.  
 4. From root of project, run ```conda env create -f scripts/environment.yaml --prefix scripts/.env```.
 5. Activate it: ```conda activate scripts/.env```.
 6. From the root folder run: ```python3 scripts/main.py```.
