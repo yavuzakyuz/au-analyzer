@@ -1,5 +1,6 @@
 ## Project Structure
 
+```
 ├── processed
 │   ├── au_visualization.png
 │   ├── aus.csv
@@ -15,7 +16,7 @@
     │── images
     │── annotations.csv
     └── attribution.csv
-
+```
 
 ### How to run 
 
