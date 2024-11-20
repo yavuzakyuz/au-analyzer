@@ -9,7 +9,8 @@
 │       ├── back-off.jpg
 |       └── ...
 └── scripts
-│    └── main.py
+│    │── main.py
+│    └── environment.yaml
 │
 |       
 └── dataset
