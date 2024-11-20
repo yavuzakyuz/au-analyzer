@@ -1,0 +1,10 @@
+name: lab1env
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - pytables
+  - pip:
+      - py-feat
+      - opencv-python
